@@ -69,7 +69,7 @@ or in case of multiple issues:
 ```
 STYLE (notifications): change notifications
 
-cnahge warning notification colors:
+change warning notification colors:
 - error notifications are now red
 - warning and info notifications are now dark-yellow
 ```
